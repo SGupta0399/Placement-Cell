@@ -5,8 +5,6 @@ It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 
 ### 🔗 Hosted link: [placement cell](https://placement-cell.onrender.com/)
 
-![](./public/1.png)
-
 ## ⚙️ Functionality 
 - User/Employee signUp and signIn
 - Add student 
@@ -55,13 +53,4 @@ The project is running on the port number provided by you.
 * passport
 * passport-jwt
 * passport-local
-
-## 🖼️ Screenshots
-![](./public/2.png)
-![](./public/3.png)
-![](./public/4.png)
-![](./public/5.png)
-![](./public/6.png)
-![](./public/7.png)
-![](./public/8.png)
 
